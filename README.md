@@ -7,4 +7,4 @@ Focus areas:
 - OWASP Top 10
 - Practical penetration testing basics
 
-This repo is part of my cybersecurity learning journey.
+This repo is part of my cybersecurity learning journey and continuously updated as I progress.
